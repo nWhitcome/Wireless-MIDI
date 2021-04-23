@@ -1,3 +1,5 @@
+# Wireless MIDI
+
 To compile the server:
 
 g++ -o final_server final_server.cpp -lws2_32 -lwinmm
@@ -12,4 +14,4 @@ The programs may not work on your machine, I set the IP address custom in the co
 
 Requires LoopMIDI
 
-[Link to demo](https://www.youtube.com/watch?v=TV7AIoCRtCs)
+Here is a [link to a presentation and demo](https://www.youtube.com/watch?v=TV7AIoCRtCs)
